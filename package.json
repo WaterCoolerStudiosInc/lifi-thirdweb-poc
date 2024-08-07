@@ -14,7 +14,8 @@
 		"next": "14.1.0",
 		"react": "^18.3",
 		"react-dom": "^18.3",
-		"thirdweb": "^5",
+		"thirdweb": "5.44.1",
+    "@thirdweb-dev/sdk": "^4.0.99",
 		"wagmi": "^2.12.0"
 	},
 	"devDependencies": {
